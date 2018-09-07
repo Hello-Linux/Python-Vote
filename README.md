@@ -1,5 +1,5 @@
 # Python-Vote
-一个自己联系python3.7 + Django2.1的投票小项目
+一个自己练习的python3.7 + Django2.1的投票小项目
 
 
 安装:
